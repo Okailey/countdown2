@@ -1,0 +1,13 @@
+.question {
+    padding: 10px;
+}
+
+.myButton {
+    border-radius: 10px !important;
+    padding: 20px !important;
+    margin: 10px !important;
+    font-size: 10px !important;
+    height: 20px !important;
+    /* background-color: rgb(246, 16, 16) !important;
+    color: black !important; */
+}
